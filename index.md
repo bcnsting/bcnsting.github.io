@@ -1,4 +1,4 @@
-BCN Sting is a run by a group of volunteers with the sole objective to expose the extent of street crime in Barcelona.
+BCN Sting is a run by a group of volunteers with the sole objective to expose the level and extent of street crime in Barcelona.
 
 ### Our core values:
 
